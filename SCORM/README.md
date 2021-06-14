@@ -3,8 +3,8 @@
 
 All course files can be found at [AI 4 All Course  Materials](https://drive.google.com/drive/folders/1ceAAM4MYxXOXEa9iXHaCuvtFyBrBNEHh?usp=sharing)
 
-![alt text](Scorm_drive_root.png "SCORM Resources")
-
+<!-- ![alt text](Scorm_drive_root.png "SCORM Resources") -->
+<img src="Scorm_drive_root.png" alt="alt text" width="150"/>
 ## Deploying based on SCORM packages
 
 To deploy a course based on a SCORM package, use the zip file with the export suffix on the filename. 

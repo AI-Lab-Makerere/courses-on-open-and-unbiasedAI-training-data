@@ -86,5 +86,5 @@ Some Text -->
 
 All materials are available as open educational resources under the Creative Commons Attribution Share-Alike(CC-BY-SA) license, can be adopted, translated  and reused. 
 <center>
-<img src="cc-by-sa.png" alt="alt text" width="100"/>
+<img src="cc-by-sa.png" alt="alt text" width="150"/>
 <center>

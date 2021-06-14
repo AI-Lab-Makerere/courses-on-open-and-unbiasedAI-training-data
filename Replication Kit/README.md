@@ -13,8 +13,8 @@ The editor opens the After Effects file and do the necessary  changes both to th
 The editor can then render out the file and further refine it in Premier Pro or any other NLE of choice.
 
 ## Course resources
-- Course One
-- Course Two
-- Course Three
-- Course Four
-- Course Five
+- [Course One]()
+- [Course Two]()
+- [Course Three]()
+- [Course Four]()
+- [Course Five]()
