@@ -80,6 +80,12 @@ Editor preferences are available in the [editor config](https://reponame/blob/ma
 ## Thanks
 
 Some Text -->
+<!-- ## Deployments
+
+
+## Contact 
+fairforward@giz.de -->
+
 
 ## Copyright and license
 
