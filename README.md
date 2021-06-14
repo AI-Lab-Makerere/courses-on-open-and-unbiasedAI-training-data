@@ -17,12 +17,11 @@
 
 The AI 4 All Course series  was developed by Makerere University,  GIZ and FAIR Forward – Artificial Intelligence for All and includes the following courses:
 
-
-- Artificial Intelligence for All: How to Create and Sustain Open AI Image Training Data
-- Artificial Intelligence for All: How to eliminate or mitigate biases in Artificial Intelligence training data
-- Artificial Intelligence for All: How to prepare open training data and share it for re-use by others following international standards
-- Artificial Intelligence for All: Open AI Training Data for Earth Observation
 - Artificial Intelligence for All: Open AI Training Data for African Languages
+- Artificial Intelligence for All: Open AI Training Data for Earth Observation
+- Artificial Intelligence for All: How to prepare open training data and share it for re-use by others following international standards
+- Artificial Intelligence for All: How to eliminate or mitigate biases in Artificial Intelligence training data
+- Artificial Intelligence for All: How to Create and Sustain Open AI Image Training Data
 
 The courses can be found on the [atingi](atingi.org) platform
 <!-- - [AI 4 All Course Series](#ai-4-all-course-series)
