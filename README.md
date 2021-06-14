@@ -56,7 +56,8 @@ folder1/
 The files needed and the instructions on how to deploy your own versions of the courses on a SCORM compatible LMS can be found in the *SCORM* folder.
 This also includes instructions on how to edit the course text.
 
-
+## Replication Kit
+The Replication Kit provides instructions on how one would go about editing the course video source materials to generate their version of the course. 
 
 
 <!-- ## Bugs and feature requests
