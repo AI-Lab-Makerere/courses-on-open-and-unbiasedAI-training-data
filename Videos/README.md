@@ -2,8 +2,8 @@
 
 The complete videos for all courses can be downloaded below:
 
-- [Course One Video](https://drive.google.com/drive/folders/1uvYzZ2_nIXJdR1P1D6I4znc698FDCAMF?usp=sharing)
-- [Course Two Video](https://drive.google.com/file/d/1VbNSTRThAYGKP-9F4lboUllvvO_RfNk1/view?usp=sharing)
-- [Course Three Video](https://drive.google.com/file/d/16u-ZA_RYzhhqfTIuMkONEczXqpUD_fFF/view?usp=sharing)
-- [Course Four Video](https://drive.google.com/file/d/16U1eqyVmK15acTfZNruI9_8P4TFcipt4/view?usp=sharing)
-- [Course Five Video](https://drive.google.com/file/d/1kEQvmc8H0oqv3DeD53gthMTYUrrA2Laa/view?usp=sharing)
+- [Course One Video](https://whitedatastorage.blob.core.windows.net/open-and-unbiased-ai-training-data/FinalVideos/VIDEO_1_HOW_TO_ACCESS_OPEN_VOICE_TRAINING_DATA_Compressed.mp4)
+- [Course Two Video](https://whitedatastorage.blob.core.windows.net/open-and-unbiased-ai-training-data/FinalVideos/VIDEO_2_HOW_TO_ACCESS_OPEN_EARTH_OBSERVATION_TRAINING_DATA.mp4)
+- [Course Three Video](https://whitedatastorage.blob.core.windows.net/open-and-unbiased-ai-training-data/FinalVideos/VIDEO_3_HOW_TO_PREPARE_TRAINING_DATA_%26_SHARE_IT_FOR_RE-USE_BY_OTHERS_FOLLOWING_INTERNATIONAL_STANDARDS.mp4)
+- [Course Four Video](https://whitedatastorage.blob.core.windows.net/open-and-unbiased-ai-training-data/FinalVideos/VIDEO_4_HOW_TO_ELIMINATE_OR_MITIGATE_BIASES_IN_AI_TRAINIG_DATA.mp4)
+- [Course Five Video](https://whitedatastorage.blob.core.windows.net/open-and-unbiased-ai-training-data/FinalVideos/VIDEO_5_HOW_TO_CREATE_%26_SUSTAIN_OPEN_AI_IMAGE_TRAINING_DATA.mp4)
