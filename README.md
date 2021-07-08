@@ -81,9 +81,9 @@ The Replication Kit provides instructions on how one would go about editing the 
 
 ## Copyright and License
 
-<p float="left">
+<p float="center">
   <img src="mak-logo.png" width="100" />
-  <img src="logo-giz.png" width="200" /> 
+  <img src="German Cooperatoin Logo1.jpg" width="150" /> 
   <img src="logo-ff.png" width="200" />
 </p>
 
