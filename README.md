@@ -79,7 +79,7 @@ To have your deployment included on the list, make a pull request to this reposi
 The Replication Kit provides instructions on how one would go about editing the course video source materials to generate their version of the course. 
 
 
-## Copyright and license
+## Copyright and License
 
 <p float="left">
   <img src="mak-logo.png" width="100" />
