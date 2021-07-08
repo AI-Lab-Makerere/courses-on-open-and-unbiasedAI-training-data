@@ -67,6 +67,14 @@ The final, uninterrupted, full length course videos are located in the Videos fo
 The files needed and the instructions on how to deploy your own versions of the courses on a SCORM compatible LMS can be found in the *SCORM* folder.
 This also includes instructions on how to edit the course text.
 
+### Deployments
+
+To have your deployment included on the list, make a pull request to this repository summarizing the details of your deployment.
+  
+1. Makerere University, Kampala Uganda: Deployment to the University LMS System, [MUELE](https://muele.mak.ac.ug/),  based on the exported SCORM packages.  
+
+
+
 ## Replication Kit
 The Replication Kit provides instructions on how one would go about editing the course video source materials to generate their version of the course. 
 
