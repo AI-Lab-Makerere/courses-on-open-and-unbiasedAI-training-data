@@ -70,10 +70,10 @@ This also includes instructions on how to edit the course text.
 ### Deployments
 
 To have your deployment included on the list, make a pull request to this repository summarizing the details of your deployment.
-  
+
 1. Makerere University, Kampala Uganda: Deployment to the University LMS System, [MUELE](https://muele.mak.ac.ug/),  based on the exported SCORM packages.  
 
-
+<!-- Add a request to declare new deployments here and in the license section -->
 
 ## Replication Kit
 The Replication Kit provides instructions on how one would go about editing the course video source materials to generate their version of the course. 
@@ -83,11 +83,13 @@ The Replication Kit provides instructions on how one would go about editing the 
 
 <p float="left">
   <img src="mak-logo.png" width="100" />
-  <img src="logo-giz.png" width="100" /> 
-  <img src="logo-bmz.png" width="100" />
+  <img src="logo-giz.png" width="200" /> 
+  <img src="logo-ff.png" width="200" />
 </p>
 
 All materials are available as open educational resources under the Creative Commons Attribution Share-Alike(CC-BY-SA) license, can be adopted, translated  and reused. 
 <center>
 <img src="cc-by-sa.png" alt="alt text" width="150"/>
 <center>
+
+<!-- Contributors List-->
