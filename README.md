@@ -15,8 +15,8 @@
 </p> -->
 # Replication Kit for AI 4 All Course Series on Open AI Training Data for the African Context
 
-Makerere University, Uganda
-With support from the GIZ project "FAIR Forward - Artificial Intelligence for All" and the Ministry for Economic Cooperation and Development (BMZ) have developed a series of courses under the 
+Makerere University, Uganda, 
+with support from the GIZ project "FAIR Forward - Artificial Intelligence for All" and the Ministry for Economic Cooperation and Development (BMZ) have developed a series of courses under the 
 Artificial Intelligence for All Series on how to create open, locally relevant and unbiased AI training data for AI practitioners in Africa..
 
 The series are targeted at researchers, developers, hobbyists and anyone interested in training AI models relevant to the African context. 
@@ -72,6 +72,12 @@ The Replication Kit provides instructions on how one would go about editing the 
 
 
 ## Copyright and license
+
+<p float="left">
+  <img src="mak-logo.png" width="100" />
+  <img src="logo-giz.png" width="100" /> 
+  <img src="logo-bmz.png" width="100" />
+</p>
 
 All materials are available as open educational resources under the Creative Commons Attribution Share-Alike(CC-BY-SA) license, can be adopted, translated  and reused. 
 <center>
