@@ -15,6 +15,6 @@ The editor can then render out the file and further refine it in Premier Pro or 
 ## Course resources
 - [Course One: Artificial Intelligence for All- Open AI Training Data for African Languages](https://whitedatastorage.blob.core.windows.net/open-and-unbiased-ai-training-data/ReplicationKit/VIDEO_1.zip)
 - [Course Two: Artificial Intelligence for All: Open AI Training Data for Earth Observation](https://whitedatastorage.blob.core.windows.net/open-and-unbiased-ai-training-data/ReplicationKit/VIDEO_2.zip)
-- [Course Three](https://whitedatastorage.blob.core.windows.net/open-and-unbiased-ai-training-data/ReplicationKit/VIDEO_3.zip)
+- [Course Three: Artificial Intelligence for All: How to prepare open training data and share it for re-use by others following international standards](https://whitedatastorage.blob.core.windows.net/open-and-unbiased-ai-training-data/ReplicationKit/VIDEO_3.zip)
 - [Course Four](https://whitedatastorage.blob.core.windows.net/open-and-unbiased-ai-training-data/ReplicationKit/VIDEO_4.zip)
 - [Course Five](https://whitedatastorage.blob.core.windows.net/open-and-unbiased-ai-training-data/ReplicationKit/VIDEO_5.zip)
