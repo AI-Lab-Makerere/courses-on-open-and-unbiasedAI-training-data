@@ -15,6 +15,6 @@ The editor can then render out the file and further refine it in Premier Pro or 
 ## Course resources
 - [Course One](https://whitedatastorage.blob.core.windows.net/open-and-unbiased-ai-training-data/ReplicationKit/VIDEO_1.zip)
 - [Course Two](https://whitedatastorage.blob.core.windows.net/open-and-unbiased-ai-training-data/ReplicationKit/VIDEO_2.zip)
-- Course Three
-- Course Four
-- Course Five
+- [Course Three](https://whitedatastorage.blob.core.windows.net/open-and-unbiased-ai-training-data/ReplicationKit/VIDEO_3.zip)
+- [Course Four](https://whitedatastorage.blob.core.windows.net/open-and-unbiased-ai-training-data/ReplicationKit/VIDEO_4.zip)
+- [Course Five](https://whitedatastorage.blob.core.windows.net/open-and-unbiased-ai-training-data/ReplicationKit/VIDEO_5.zip)
