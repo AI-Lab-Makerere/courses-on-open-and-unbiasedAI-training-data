@@ -13,42 +13,37 @@
     <a href="https://reponame/issues/new?template=feature.md&labels=feature">Request feature</a>
   </p>
 </p> -->
-# AI 4 All Course Series
+# Replication Kit for AI 4 All Course Series on Open AI Training Data for the African Context
 
-The AI 4 All Course series  was developed by Makerere University,  GIZ and FAIR Forward – Artificial Intelligence for All and includes the following courses:
+Makerere University, Uganda
+With support from the GIZ project "FAIR Forward - Artificial Intelligence for All" and the Ministry for Economic Cooperation and Development (BMZ) have developed a series of courses under the 
+Artificial Intelligence for All Series on how to create open, locally relevant and unbiased AI training data for AI practitioners in Africa..
 
-- Artificial Intelligence for All: Open AI Training Data for African Languages
-- Artificial Intelligence for All: Open AI Training Data for Earth Observation
-- Artificial Intelligence for All: How to prepare open training data and share it for re-use by others following international standards
-- Artificial Intelligence for All: How to eliminate or mitigate biases in Artificial Intelligence training data
-- Artificial Intelligence for All: How to Create and Sustain Open AI Image Training Data
+The series are targeted at researchers, developers, hobbyists and anyone interested in training AI models relevant to the African context. 
 
-The courses can be found on the [atingi](atingi.org) platform
-<!-- - [AI 4 All Course Series](#ai-4-all-course-series)
+The course series is hosted on on the [atingi](atingi.org) platform and is free for all. The courses are as follows:
 
-  - [Quick start](#quick-start)
-  - [Status](#status)
-  - [What's included](#whats-included)
-  - [Bugs and feature requests](#bugs-and-feature-requests)
-  - [Contributing](#contributing)
-  - [Creators](#creators)
-  - [Thanks](#thanks)
-  - [Copyright and license](#copyright-and-license) -->
+- [Artificial Intelligence for All: Open AI Training Data for African Languages](https://online.atingi.org/course/view.php?id=465)
+
+- [Artificial Intelligence for All: Open AI Training Data for Earth Observation](https://online.atingi.org/course/view.php?id=467)
+
+- [Artificial Intelligence for All: How to prepare open training data and share it for re-use by others following international standards](https://online.atingi.org/course/view.php?id=653)
+
+- [Artificial Intelligence for All: How to eliminate or mitigate biases in Artificial Intelligence training data](https://online.atingi.org/course/view.php?id=689)
+
+- [Artificial Intelligence for All: How to Create and Sustain Open AI Image Training Data](https://online.atingi.org/course/view.php?id=690)
+
+<!-- Insert poster with all the courses or an image per course -->
+
+To maximize impact, to foster re-use, we have created a replication kit to make it easy for anyone interested to:
+
+1. Make their copy of the courses and host it on a compatible platform.
+2. Make edits to the course content, including the course videos and text to fit their own context and branding or to include their original content content.
 
 
 ## Course Videos
 
-All course videos are located in the Videos folder. 
-<!-- ```text
-folder1/
-└── folder2/
-    ├── folder3/
-    │   ├── file1
-    │   └── file2
-    └── folder4/
-        ├── file3
-        └── file4 
-```-->
+The final, uninterrupted, full length course videos are located in the Videos folder. 
 
 ## Deploying your own version of the course
 
@@ -57,34 +52,6 @@ This also includes instructions on how to edit the course text.
 
 ## Replication Kit
 The Replication Kit provides instructions on how one would go about editing the course video source materials to generate their version of the course. 
-
-
-<!-- ## Bugs and feature requests
-
-Have a bug or a feature request? Please first read the [issue guidelines](https://reponame/blob/master/CONTRIBUTING.md) and search for existing and closed issues. If your problem or idea is not addressed yet, [please open a new issue](https://reponame/issues/new). -->
-
-<!-- ## Contributing
-
-Please read through our [contributing guidelines](https://reponame/blob/master/CONTRIBUTING.md). Included are directions for opening issues, coding standards, and notes on development.
-
-Moreover, all HTML and CSS should conform to the [Code Guide](https://github.com/mdo/code-guide), maintained by [Main author](https://github.com/usernamemainauthor).
-
-Editor preferences are available in the [editor config](https://reponame/blob/master/.editorconfig) for easy use in common text editors. Read more and download plugins at <https://editorconfig.org/>. -->
-
-<!-- ## Creators
-
-**Creator 1**
-
-- <https://github.com/usernamecreator1>
-
-## Thanks
-
-Some Text -->
-<!-- ## Deployments
-
-
-## Contact 
-fairforward@giz.de -->
 
 
 ## Copyright and license
