@@ -80,13 +80,12 @@ The Replication Kit provides instructions on how one would go about editing the 
 
 
 ## Copyright and License
-<center>
-<p >
+
+<p align="center">
   <img src="mak-logo.png" width="100" />
   <img src="German Cooperatoin Logo1.jpg" width="150" /> 
   <img src="logo-ff.png" width="200" />
 </p>
-</center>
 
 All materials are available as open educational resources under the Creative Commons Attribution Share-Alike(CC-BY-SA) license, can be adopted, translated  and reused. 
 <center>
