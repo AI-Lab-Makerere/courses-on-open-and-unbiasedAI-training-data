@@ -1,7 +1,22 @@
 
 # Creating your copy of the AI 4 ALL courses
 
-All course files can be found at [AI 4 All Course  Materials](https://drive.google.com/drive/folders/1ceAAM4MYxXOXEa9iXHaCuvtFyBrBNEHh?usp=sharing)
+Below are the links to the course files:
+
+- [AI 4 All Course  Materials](https://drive.google.com/drive/folders/1ceAAM4MYxXOXEa9iXHaCuvtFyBrBNEHh?usp=sharing)
+
+https://whitedatastorage.blob.core.windows.net/open-and-unbiased-ai-training-data/ScormPackages/artificial-intelligence-for-all-how-to-create-and-sustain-open-ai-image-training-data-export.zip
+https://whitedatastorage.blob.core.windows.net/open-and-unbiased-ai-training-data/ScormPackages/artificial-intelligence-for-all-how-to-create-and-sustain-open-ai-image-training-data.zip
+https://whitedatastorage.blob.core.windows.net/open-and-unbiased-ai-training-data/ScormPackages/artificial-intelligence-for-all-how-to-eliminate-or-mitigate-biases-in-artificial-intelligence-training-data-export.zip
+https://whitedatastorage.blob.core.windows.net/open-and-unbiased-ai-training-data/ScormPackages/artificial-intelligence-for-all-how-to-eliminate-or-mitigate-biases-in-artificial-intelligence-training-data.zip
+https://whitedatastorage.blob.core.windows.net/open-and-unbiased-ai-training-data/ScormPackages/artificial-intelligence-for-all-how-to-prepare-open-training-data-and-share-it-for-re-use-by-others-following-international-standards-export.zip
+https://whitedatastorage.blob.core.windows.net/open-and-unbiased-ai-training-data/ScormPackages/artificial-intelligence-for-all-how-to-prepare-open-training-data-and-share-it-for-re-use-by-others-following-international-standards.zip
+https://whitedatastorage.blob.core.windows.net/open-and-unbiased-ai-training-data/ScormPackages/artificial-intelligence-for-all-open-ai-training-data-for-african-languages-export.zip
+https://whitedatastorage.blob.core.windows.net/open-and-unbiased-ai-training-data/ScormPackages/artificial-intelligence-for-all-open-ai-training-data-for-african-languages.zip
+https://whitedatastorage.blob.core.windows.net/open-and-unbiased-ai-training-data/ScormPackages/artificial-intelligence-for-all-open-ai-training-data-for-earth-observation-export.zip
+https://whitedatastorage.blob.core.windows.net/open-and-unbiased-ai-training-data/ScormPackages/artificial-intelligence-for-all-open-ai-training-data-for-earth-observation.zip
+https://whitedatastorage.blob.core.windows.net/open-and-unbiased-ai-training-data/ScormPackages/Getting started with a Scorm Course.pdf
+https://whitedatastorage.blob.core.windows.net/open-and-unbiased-ai-training-data/ScormPackages/How to import a course into the adapt authoring tool.pdf
 
 ![alt text](Scorm_drive_root.PNG "SCORM Resources")
 <!-- <img src="Scorm_drive_root.PNG" alt="alt text" width="150"/> -->
