@@ -43,7 +43,7 @@ The course series is hosted on on the [atingi](atingi.org) platform and is free 
 - [Artificial Intelligence for All: How to eliminate or mitigate biases in Artificial Intelligence training data](https://online.atingi.org/course/view.php?id=689)
 
 <center>
-<img src="Course_4_How to eliminate or mitigate biases .jpg" alt="alt text" width="300"/>
+<img src="Course_4_How to eliminate or mitigate biases.jpg" alt="alt text" width="300"/>
 <center>
 
 - [Artificial Intelligence for All: How to Create and Sustain Open AI Image Training Data](https://online.atingi.org/course/view.php?id=690)
