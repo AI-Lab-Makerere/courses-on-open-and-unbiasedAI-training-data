@@ -25,14 +25,31 @@ The course series is hosted on on the [atingi](atingi.org) platform and is free 
 
 - [Artificial Intelligence for All: Open AI Training Data for African Languages](https://online.atingi.org/course/view.php?id=465)
 
+<center>
+<img src="Course_1_Artificial Intelligence for All- Open AI Training Data for African Languages-1.jpg" alt="alt text" width="300"/>
+<center>
+
 - [Artificial Intelligence for All: Open AI Training Data for Earth Observation](https://online.atingi.org/course/view.php?id=467)
+<center>
+<img src="Course 2_Earth_Observation_Data.png" alt="alt text" width="300"/>
+<center>
 
 - [Artificial Intelligence for All: How to prepare open training data and share it for re-use by others following international standards](https://online.atingi.org/course/view.php?id=653)
 
+<center>
+<img src="Course_3_How to prepare open training data and share it.jpg" alt="alt text" width="300"/>
+<center>
+
 - [Artificial Intelligence for All: How to eliminate or mitigate biases in Artificial Intelligence training data](https://online.atingi.org/course/view.php?id=689)
 
-- [Artificial Intelligence for All: How to Create and Sustain Open AI Image Training Data](https://online.atingi.org/course/view.php?id=690)
+<center>
+<img src="Course_4_How to eliminate or mitigate biases .jpg" alt="alt text" width="300"/>
+<center>
 
+- [Artificial Intelligence for All: How to Create and Sustain Open AI Image Training Data](https://online.atingi.org/course/view.php?id=690)
+<center>
+<img src="Course 5_Create _ Sustatin Open AI Image Training Data-1.jpg" alt="alt text" width="300"/>
+<center>
 <!-- Insert poster with all the courses or an image per course -->
 
 To maximize impact, to foster re-use, we have created a replication kit to make it easy for anyone interested to:
