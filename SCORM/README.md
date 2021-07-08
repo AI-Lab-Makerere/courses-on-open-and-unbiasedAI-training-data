@@ -1,6 +1,6 @@
 
 # Creating your copy of the AI 4 ALL courses
-All courses were created using the [adapt](https://www.adaptlearning.org/) course authoring tool. For deployment to the LMS, the courses were exported to the [SCORM](https://en.wikipedia.org/wiki/Sharable_Content_Object_Reference_Model) format. 
+All courses were created using the [Adapt](https://www.adaptlearning.org/) course authoring tool. For deployment to the LMS, the courses were exported to the [SCORM](https://en.wikipedia.org/wiki/Sharable_Content_Object_Reference_Model) format. 
 
 You can deploy your own version of the final course packages on a SCORM Compliant LMS (such as moodle), or you can make changes to the course by making use of the adapt tool.
 The SCORM materials and instructions on how to use them are given below.
