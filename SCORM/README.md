@@ -1,15 +1,17 @@
 
 # Creating your copy of the AI 4 ALL courses
+All courses were created using the [adapt](https://www.adaptlearning.org/) course authoring tool. For deployment to the LMS, the courses were exported to the [SCORM](https://en.wikipedia.org/wiki/Sharable_Content_Object_Reference_Model) format. 
 
-Below are the links to the course files:
+You can deploy your own version of the final course packages on a SCORM Compliant LMS (such as moodle), or you can make changes to the course by making use of the adapt tool.
+The SCORM materials and instructions on how to use them are given below.
 
-## Scorm Files
+## Scorm Resources
 
 ### Instructions
 
-- [Getting started with a Scorm Course.pdf](https://whitedatastorage.blob.core.windows.net/open-and-unbiased-ai-training-data/ScormPackages/Getting started with a Scorm Course.pdf)
+- [Getting started with a Scorm Course.pdf](<https://whitedatastorage.blob.core.windows.net/open-and-unbiased-ai-training-data/ScormPackages/Getting started with a Scorm Course.pdf>)
 
-- [How to import a course into the adapt authoring tool.pdf](https://whitedatastorage.blob.core.windows.net/open-and-unbiased-ai-training-data/ScormPackages/How to import a course into the adapt authoring tool.pdf)
+- [How to import a course into the adapt authoring tool.pdf](<https://whitedatastorage.blob.core.windows.net/open-and-unbiased-ai-training-data/ScormPackages/How to import a course into the adapt authoring tool.pdf>)
 
 ### SCORM Files
 
@@ -54,7 +56,7 @@ Getting Started with a Scorm Course.pdf
 ```
 ## Editing the course text
 
-This course was create using the [adapt](https://www.adaptlearning.org/) course authoring tool. To make edits to the course text follow the instructions in 
+ To make edits to the course text follow the instructions in 
 
 ```text
 How to import a course into the adapt authoring tool.pdf
