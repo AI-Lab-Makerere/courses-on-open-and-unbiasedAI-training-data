@@ -6,13 +6,12 @@ Below are the links to the course files:
 ## Scorm Files
 
 ### Instructions
+
 - [Getting started with a Scorm Course.pdf](https://whitedatastorage.blob.core.windows.net/open-and-unbiased-ai-training-data/ScormPackages/Getting started with a Scorm Course.pdf)
 
 - [How to import a course into the adapt authoring tool.pdf](https://whitedatastorage.blob.core.windows.net/open-and-unbiased-ai-training-data/ScormPackages/How to import a course into the adapt authoring tool.pdf)
 
 ### SCORM Files
-
-
 
 <!-- Course 1 -->
 - [artificial-intelligence-for-all-open-ai-training-data-for-african-languages-export.zip](https://whitedatastorage.blob.core.windows.net/open-and-unbiased-ai-training-data/ScormPackages/artificial-intelligence-for-all-open-ai-training-data-for-african-languages-export.zip)
@@ -55,7 +54,7 @@ Getting Started with a Scorm Course.pdf
 ```
 ## Editing the course text
 
-This course was create using the *adapt* course authoring tool. To make edits to the course text follow the instructions in 
+This course was create using the [adapt](https://www.adaptlearning.org/) course authoring tool. To make edits to the course text follow the instructions in 
 
 ```text
 How to import a course into the adapt authoring tool.pdf
