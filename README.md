@@ -19,9 +19,9 @@ Makerere University, Uganda,
 with support from the GIZ project "FAIR Forward - Artificial Intelligence for All" and the Ministry for Economic Cooperation and Development (BMZ) have developed a series of courses under the 
 Artificial Intelligence for All Series on how to create open, locally relevant and unbiased AI training data for AI practitioners in Africa.
 
-The series are targeted at researchers, developers, hobbyists and anyone interested in training AI models relevant to the African context. 
+The courses are targeted at researchers, developers, hobbyists and anyone interested in training AI models relevant to the African context. 
 
-The course series is hosted on on the [atingi](atingi.org) platform and is free for all. The courses are as follows:
+The series is hosted on on the [atingi](atingi.org) platform and is free for all. The courses are:
 
 - [Artificial Intelligence for All: Open AI Training Data for African Languages](https://online.atingi.org/course/view.php?id=465)
 
@@ -52,19 +52,19 @@ The course series is hosted on on the [atingi](atingi.org) platform and is free 
 <center>
 <!-- Insert poster with all the courses or an image per course -->
 
-To maximize impact, to foster re-use, we have created a replication kit to make it easy for anyone interested to:
+This repository hosts a replication kit together with guidelines for anyone interested to:
 
 1. Make their copy of the courses and host it on a compatible platform.
-2. Make edits to the course content, including the course videos and text to fit their own context and branding or to include their original content content.
+2. Make edits to the course content, including the course videos and text to fit their own context and branding or to include their original content.
 
 
 ## Course Videos
 
-The final, uninterrupted, full length course videos are located in the Videos folder. 
+The final, uninterrupted, full length course videos are located in the [Videos](Videos/README.md) folder. 
 
 ## Deploying your own version of the course
 
-The files needed and the instructions on how to deploy your own versions of the courses on a SCORM compatible LMS can be found in the *SCORM* folder.
+The files needed and the instructions on how to deploy your own versions of the courses on a SCORM compatible LMS can be found in the [SCORM](SCORM/README.md) folder.
 This also includes instructions on how to edit the course text.
 
 ### Deployments
@@ -76,7 +76,7 @@ To have your deployment included on the list, make a pull request to this reposi
 <!-- Add a request to declare new deployments here and in the license section -->
 
 ## Replication Kit
-The Replication Kit provides instructions on how one would go about editing the course video source materials to generate their version of the course. 
+The Course Videos [Replication Kit](<Replication Kit/README.md>) provides instructions on how one would go about editing the course video source materials to generate their version of the course. 
 
 
 ## Copyright and License
@@ -91,5 +91,5 @@ All materials are available as open educational resources under the Creative Com
 <center>
 <img src="cc-by-sa.png" alt="alt text" width="150"/>
 <center>
-
+If you make your own copy of the course, inform the the contributors so that it is listed in the *Deployments* section.
 <!-- Contributors List-->
