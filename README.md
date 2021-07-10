@@ -81,9 +81,9 @@ The Course Videos [Replication Kit](<Replication Kit/README.md>) provides instru
 
 ## Copyright and License
 
-<p float="left">
+<p align="center">
   <img src="mak-logo.png" width="100" />
-  <img src="logo-giz.png" width="200" /> 
+  <img src="German Cooperatoin Logo1.jpg" width="150" /> 
   <img src="logo-ff.png" width="200" />
 </p>
 
