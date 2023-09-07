@@ -9,7 +9,7 @@ The SCORM materials and instructions on how to use them are given below.
 
 ### Instructions
 
-- [Getting started with a Scorm Course.pdf](<https://whitedatastorage.blob.core.windows.net/open-and-unbiased-ai-training-data/ScormPackages/Getting started with a Scorm Course.pdf>)
+- [Getting started with a Scorm Course.pdf](<https://github.com/AI-Lab-Makerere/courses-on-open-and-unbiasedAI-training-data/blob/main/SCORM/Getting%20started%20with%20a%20Scorm%20Course.pdf>)
 
 - [How to import a course into the adapt authoring tool.pdf](<https://whitedatastorage.blob.core.windows.net/open-and-unbiased-ai-training-data/ScormPackages/How to import a course into the adapt authoring tool.pdf>)
 
