@@ -13,8 +13,8 @@ The SCORM materials and instructions on how to use them are given below.
 
 - [How to import a course into the adapt authoring tool.pdf](<https://github.com/AI-Lab-Makerere/courses-on-open-and-unbiasedAI-training-data/blob/main/SCORM/How%20to%20import%20a%20course%20into%20the%20adapt%20authoring%20tool.pdf>)
 
-### SCORM Files - for downloads you have to be logged in on www.atingi.org
-
+### SCORM Files
+Please note: For downloads you have to be logged in on www.atingi.org
 <!-- Course 1 -->
 - [artificial-intelligence-for-all-open-ai-training-data-for-african-languages-export.zip](https://online.atingi.org/pluginfile.php/750335/mod_folder/content/0/SCORM%20-%20Open%20AI%20Training%20Data%20for%20African%20Languages-export.zip?forcedownload=1)
 
