@@ -18,7 +18,7 @@ The SCORM materials and instructions on how to use them are given below.
 <!-- Course 1 -->
 - [artificial-intelligence-for-all-open-ai-training-data-for-african-languages-export.zip](https://online.atingi.org/pluginfile.php/750335/mod_folder/content/0/SCORM%20-%20Open%20AI%20Training%20Data%20for%20African%20Languages-export.zip?forcedownload=1)
 
-- [artificial-intelligence-for-all-open-ai-training-data-for-african-languages.zip](https://online.atingi.org/pluginfile.php/750335/mod_folder/content/0/SCORM - Open AI Training Data for African Languages.zip?forcedownload=1)
+- [artificial-intelligence-for-all-open-ai-training-data-for-african-languages.zip](https://online.atingi.org/pluginfile.php/750335/mod_folder/content/0/SCORM%20-%20Open%20AI%20Training%20Data%20for%20African%20Languages.zip?forcedownload=1)
 
 <!-- Course 2 -->
 
