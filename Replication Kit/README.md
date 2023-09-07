@@ -12,7 +12,8 @@ The folders are clearly labelled according to the video e.g VIDEO_1 that contain
 The editor opens the After Effects file and do the necessary  changes both to the text and audio files if there is need for replacement.
 The editor can then render out the file and further refine it in Premier Pro or any other NLE of choice.
 
-## Course resources - for downloads you have to be logged in on www.atingi.org
+## Course resources
+Please note: For downloads you have to be logged in on www.atingi.org
 - [Course One: Artificial Intelligence for All- Open AI Training Data for African Languages](https://online.atingi.org/pluginfile.php/750335/mod_folder/content/0/Replication%20Kit%20-%20Open%20AI%20Training%20Data%20for%20African%20Languages.zip?forcedownload=1)
 - [Course Two: Artificial Intelligence for All: Open AI Training Data for Earth Observation](https://online.atingi.org/pluginfile.php/750959/mod_folder/content/0/Replication%20Kit%20-%20Open%20AI%20Training%20Data%20for%20Earth%20Observation.zip?forcedownload=1)
 - [Course Three: Artificial Intelligence for All: How to prepare open training data and share it for re-use by others following international standards](https://online.atingi.org/pluginfile.php/750997/mod_folder/content/0/Replication%20Kit%20-%20How%20to%20prepare%20open%20training%20data%20and%20share%20it%20for%20re-use%20by%20others%20following%20international%20standards.zip?forcedownload=1)
