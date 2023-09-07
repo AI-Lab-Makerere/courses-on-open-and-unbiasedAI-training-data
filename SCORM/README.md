@@ -11,14 +11,14 @@ The SCORM materials and instructions on how to use them are given below.
 
 - [Getting started with a Scorm Course.pdf](<https://github.com/AI-Lab-Makerere/courses-on-open-and-unbiasedAI-training-data/blob/main/SCORM/Getting%20started%20with%20a%20Scorm%20Course.pdf>)
 
-- [How to import a course into the adapt authoring tool.pdf](<https://whitedatastorage.blob.core.windows.net/open-and-unbiased-ai-training-data/ScormPackages/How to import a course into the adapt authoring tool.pdf>)
+- [How to import a course into the adapt authoring tool.pdf](<https://github.com/AI-Lab-Makerere/courses-on-open-and-unbiasedAI-training-data/blob/main/SCORM/How%20to%20import%20a%20course%20into%20the%20adapt%20authoring%20tool.pdf>)
 
 ### SCORM Files
 
 <!-- Course 1 -->
-- [artificial-intelligence-for-all-open-ai-training-data-for-african-languages-export.zip](https://whitedatastorage.blob.core.windows.net/open-and-unbiased-ai-training-data/ScormPackages/artificial-intelligence-for-all-open-ai-training-data-for-african-languages-export.zip)
+- [artificial-intelligence-for-all-open-ai-training-data-for-african-languages-export.zip](https://online.atingi.org/pluginfile.php/750335/mod_folder/content/0/SCORM%20-%20Open%20AI%20Training%20Data%20for%20African%20Languages-export.zip?forcedownload=1)
 
-- [artificial-intelligence-for-all-open-ai-training-data-for-african-languages.zip](https://whitedatastorage.blob.core.windows.net/open-and-unbiased-ai-training-data/ScormPackages/artificial-intelligence-for-all-open-ai-training-data-for-african-languages.zip)
+- [artificial-intelligence-for-all-open-ai-training-data-for-african-languages.zip](https://online.atingi.org/pluginfile.php/750335/mod_folder/content/0/SCORM - Open AI Training Data for African Languages.zip?forcedownload=1)
 
 <!-- Course 2 -->
 
