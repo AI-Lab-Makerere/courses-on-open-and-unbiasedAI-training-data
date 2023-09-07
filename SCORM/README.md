@@ -13,7 +13,7 @@ The SCORM materials and instructions on how to use them are given below.
 
 - [How to import a course into the adapt authoring tool.pdf](<https://github.com/AI-Lab-Makerere/courses-on-open-and-unbiasedAI-training-data/blob/main/SCORM/How%20to%20import%20a%20course%20into%20the%20adapt%20authoring%20tool.pdf>)
 
-### SCORM Files
+### SCORM Files - for downloads you have to be logged in on www.atingi.org
 
 <!-- Course 1 -->
 - [artificial-intelligence-for-all-open-ai-training-data-for-african-languages-export.zip](https://online.atingi.org/pluginfile.php/750335/mod_folder/content/0/SCORM%20-%20Open%20AI%20Training%20Data%20for%20African%20Languages-export.zip?forcedownload=1)
@@ -22,24 +22,24 @@ The SCORM materials and instructions on how to use them are given below.
 
 <!-- Course 2 -->
 
-- [artificial-intelligence-for-all-open-ai-training-data-for-earth-observation-export.zip](https://whitedatastorage.blob.core.windows.net/open-and-unbiased-ai-training-data/ScormPackages/artificial-intelligence-for-all-open-ai-training-data-for-earth-observation-export.zip)
+- [artificial-intelligence-for-all-open-ai-training-data-for-earth-observation-export.zip](https://online.atingi.org/pluginfile.php/750959/mod_folder/content/0/SCORM%20-%20Open%20AI%20Training%20Data%20for%20Earth%20Observation-export.zip?forcedownload=1)
 
-- [artificial-intelligence-for-all-open-ai-training-data-for-earth-observation.zip](https://whitedatastorage.blob.core.windows.net/open-and-unbiased-ai-training-data/ScormPackages/artificial-intelligence-for-all-open-ai-training-data-for-earth-observation.zip)
+- [artificial-intelligence-for-all-open-ai-training-data-for-earth-observation.zip](https://online.atingi.org/pluginfile.php/750959/mod_folder/content/0/SCORM%20-%20Open%20AI%20Training%20Data%20for%20Earth%20Observation.zip?forcedownload=1)
 
 <!-- Course 3 -->
-- [artificial-intelligence-for-all-how-to-prepare-open-training-data-and-share-it-for-re-use-by-others-following-international-standards-export.zip](https://whitedatastorage.blob.core.windows.net/open-and-unbiased-ai-training-data/ScormPackages/artificial-intelligence-for-all-how-to-prepare-open-training-data-and-share-it-for-re-use-by-others-following-international-standards-export.zip)
+- [artificial-intelligence-for-all-how-to-prepare-open-training-data-and-share-it-for-re-use-by-others-following-international-standards-export.zip](https://online.atingi.org/pluginfile.php/750997/mod_folder/content/0/SCORM%20-%20How%20to%20prepare%20open%20training%20data%20and%20share%20it%20for%20re-use%20by%20others%20following%20international%20standards-export.zip?forcedownload=1)
 
-- [artificial-intelligence-for-all-how-to-prepare-open-training-data-and-share-it-for-re-use-by-others-following-international-standards.zip](https://whitedatastorage.blob.core.windows.net/open-and-unbiased-ai-training-data/ScormPackages/artificial-intelligence-for-all-how-to-prepare-open-training-data-and-share-it-for-re-use-by-others-following-international-standards.zip)
+- [artificial-intelligence-for-all-how-to-prepare-open-training-data-and-share-it-for-re-use-by-others-following-international-standards.zip](https://online.atingi.org/pluginfile.php/750997/mod_folder/content/0/SCORM%20-%20How%20to%20prepare%20open%20training%20data%20and%20share%20it%20for%20re-use%20by%20others%20following%20international%20standards.zip?forcedownload=1)
 
 <!-- Course 4 -->
-- [artificial-intelligence-for-all-how-to-eliminate-or-mitigate-biases-in-artificial-intelligence-training-data-export.zip](https://whitedatastorage.blob.core.windows.net/open-and-unbiased-ai-training-data/ScormPackages/artificial-intelligence-for-all-how-to-eliminate-or-mitigate-biases-in-artificial-intelligence-training-data-export.zip)
+- [artificial-intelligence-for-all-how-to-eliminate-or-mitigate-biases-in-artificial-intelligence-training-data-export.zip](https://online.atingi.org/pluginfile.php/751052/mod_folder/content/0/SCORM%20-%20How%20to%20eliminate%20or%20mitigate%20biases%20in%20Artificial%20Intelligence%20training%20data-export.zip?forcedownload=1)
 
-- [artificial-intelligence-for-all-how-to-eliminate-or-mitigate-biases-in-artificial-intelligence-training-data.zip](https://whitedatastorage.blob.core.windows.net/open-and-unbiased-ai-training-data/ScormPackages/artificial-intelligence-for-all-how-to-eliminate-or-mitigate-biases-in-artificial-intelligence-training-data.zip)
+- [artificial-intelligence-for-all-how-to-eliminate-or-mitigate-biases-in-artificial-intelligence-training-data.zip](https://online.atingi.org/pluginfile.php/751052/mod_folder/content/0/SCORM%20-%20How%20to%20eliminate%20or%20mitigate%20biases%20in%20Artificial%20Intelligence%20training%20data.zip?forcedownload=1)
 
 <!-- Course 5 -->
-- [artificial-intelligence-for-all-how-to-create-and-sustain-open-ai-image-training-data-export.zip](https://whitedatastorage.blob.core.windows.net/open-and-unbiased-ai-training-data/ScormPackages/artificial-intelligence-for-all-how-to-create-and-sustain-open-ai-image-training-data-export.zip)
+- [artificial-intelligence-for-all-how-to-create-and-sustain-open-ai-image-training-data-export.zip](https://online.atingi.org/pluginfile.php/751058/mod_folder/content/0/SCORM%20-%20How%20to%20Create%20and%20Sustain%20Open%20AI%20Image%20Training%20Data-export.zip?forcedownload=1)
 
-- [artificial-intelligence-for-all-how-to-create-and-sustain-open-ai-image-training-data.zip](https://whitedatastorage.blob.core.windows.net/open-and-unbiased-ai-training-data/ScormPackages/artificial-intelligence-for-all-how-to-create-and-sustain-open-ai-image-training-data.zip)
+- [artificial-intelligence-for-all-how-to-create-and-sustain-open-ai-image-training-data.zip](https://online.atingi.org/pluginfile.php/751058/mod_folder/content/0/SCORM%20-%20How%20to%20Create%20and%20Sustain%20Open%20AI%20Image%20Training%20Data.zip?forcedownload=1)
 
 ## Deploying based on SCORM packages
 
